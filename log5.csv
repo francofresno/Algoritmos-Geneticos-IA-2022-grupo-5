@@ -1,0 +1,11 @@
+2022/06/05 16:19:33,logs, Mejor solucion: [ 7 17  7  7  5  3 14  1  1  6 11 16 12  8 17 17 11  5 13 17]
+2022/06/05 16:19:33,logs, Parametros: 
+ - Numero de cromosomas: 80
+ - Numero de generaciones: 500
+ - Cantidad de materias: 20
+ - Valores de cada gen: range(1, 18)
+ - Tipo de gen: int
+ - Metodo de seleccion: tournament
+ - Se eliminan los padres: Si
+ - Probabilidad de mutacion: 0.1
+2022/06/05 16:19:33,logs, La mejor solución fue alcanzada después de 28 generaciones.

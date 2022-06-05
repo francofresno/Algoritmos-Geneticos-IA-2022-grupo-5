@@ -1,0 +1,11 @@
+2022/06/05 15:54:22,logs, Mejor solucion: [ 1 15  9  7  3  5 12 16  6  1 14 11  4  8 17 14  2 17  6 11]
+2022/06/05 15:54:22,logs, Parametros: 
+ - Numero de cromosomas: 20
+ - Numero de generaciones: 500
+ - Cantidad de materias: 20
+ - Valores de cada gen: range(1, 18)
+ - Tipo de gen: int
+ - Metodo de seleccion: rank
+ - Se eliminan los padres: Si
+ - Probabilidad de mutacion: 0.1
+2022/06/05 15:54:22,logs, La mejor solución fue alcanzada después de 163 generaciones.
